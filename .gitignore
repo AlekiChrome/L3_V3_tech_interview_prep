@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+package-lock.json
+package.json
+
+# Jest
+coverage/
+*.test.js
+jest.config.js
